@@ -28,8 +28,8 @@ async def repo(_, message: Message):
                 [
                     InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", user_id=OWNER_ID),
                     InlineKeyboardButton(
-                        "sᴏᴜʀᴄᴇ",
-                        url="https://github.com/AnonymousX1025/FallenRobot",
+                        "𝕊𝕠𝕦𝕣𝕔𝕖",
+                        url="https://t.me/+_nDU6O3XSd8yNjI1",
                     ),
                 ]
             ]
