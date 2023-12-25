@@ -37,7 +37,7 @@
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
          "required": true,
-         "value": ""
+         "value": "4ONZ97XPO2DXJ3GR"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
@@ -76,7 +76,7 @@
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": true,
-         "value": ""
+         "value": "0UJPW4SY5W5G"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
